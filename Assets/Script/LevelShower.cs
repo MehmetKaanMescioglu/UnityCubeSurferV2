@@ -4,7 +4,7 @@ using UnityEngine;
 using TMPro;
 public class LevelShower : MonoBehaviour
 {
-    private TextMeshProUGUI pointTxt;
+    /*private TextMeshProUGUI pointTxt;
     private TextMeshProUGUI levelTxt;
     
     //private TextMeshProUGUI LocScore;
@@ -40,5 +40,5 @@ public class LevelShower : MonoBehaviour
 
         //int LocPointScore = LevelManager.Instance.GetLocPoint();
         //LocScore.text = LocPointScore.ToString();
-    }
+    }*/
 }
